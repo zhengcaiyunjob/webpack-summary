@@ -20,4 +20,5 @@
         5. debugging ->
         6. other->
 ##3. 关于devtool 这个里面主要用来搭建本地服务和代理设置。
+    这块的内容不是很多，需要时候查阅官网就OK。
 ##4. 关于TROUBLESHOOTING
